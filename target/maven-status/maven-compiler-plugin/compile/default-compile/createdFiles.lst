@@ -1,0 +1,4 @@
+crudapp\model\User.class
+crudapp\controller\LoginController.class
+crudapp\utility\ConnectionManager.class
+crudapp\dao\UserDAO.class
